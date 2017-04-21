@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to Remote Beer -- a Rails application for finding beer while traveling abroad.
+Welcome to Remote Beer - a Rails application for finding beer while traveling abroad.
 
 The application as it stands today is very simple. There are two models, City and Beer, created with the rails scaffold generator. Our job will be to develop the application as much as possible in 2 hours.
 
@@ -12,7 +12,7 @@ We will be pair programming over a Zoom session. You will be driving the entire 
 
 # Evaluation
 
-You are being evaluated on your judgement as a developer. I am looking at how you make tradoffs when tackling particular tasks, the effeciency of your development process, and your familiarity with your preferred tools. 
+You are being evaluated on your judgement as a developer. I am looking at how you make tradoffs when tackling particular tasks, the efficiency of your development process, and your familiarity with your preferred tools. 
 
 Things do not need to be production ready at the end of 2 hours. If you cut corners, simply explain your reasoning.
 
