@@ -2,7 +2,7 @@
 
 Welcome to Remote Beer - a Rails application for finding beer while traveling abroad.
 
-The application as it stands today is very simple. There are two models, City and Beer, created with the rails scaffold generator. Our job will be to develop the application as much as possible in 2 hours.
+The application as it stands today is very simple. There are two models, City and Beer, created with the rails scaffold generator. Our job will be to develop the application as much as possible in 3 hours.
 
 # Constraints
 
