@@ -12,9 +12,9 @@ This test is completely open book. You are free to use any tools, resources, lib
 
 You are being evaluated on your judgement as a developer. I am looking at how you make tradoffs when tackling particular tasks, the efficiency of your development process, and your familiarity with your preferred tools. 
 
-Things do not need to be production ready at the end of 2 hours. If you cut corners, simply explain your reasoning.
+Things do not need to be production ready at the end of 3 hours. If you cut corners, simply explain your reasoning.
 
-I am not evaluating aesthetics of the front end. It does not need to be pixel perfect.
+I am not evaluating aesthetics of the front end unless you choose to focus on that. Otherwise, it does not need to be pixel perfect.
 
 # Installation
 
